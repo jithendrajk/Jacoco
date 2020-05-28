@@ -10,7 +10,7 @@ public class Comparestrings {
 		}
 		else
 		{
-			System.out.println("we are manual testers IN JKT");
+			System.out.println("we are manual testers IN JKTechnosoft");
 		
 		}
 	}
