@@ -15,7 +15,7 @@ public class TestComparison {
 	public void failtest()	
 	{
 	Comparestrings obj1=new Comparestrings();
-	obj1.containsOrNot("Jenkins is a CI tool");
+	obj1.containsOrNot("Jenkins is a CI/CD tool");
 	
 }
 }
